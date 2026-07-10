@@ -1,6 +1,6 @@
 # Uber Ride Bookings Dashboard (Power BI)
 
-
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/ChatGPT%20Image%20Jul%2011%2C%202026%2C%2012_10_39%20AM.png)
  
 A multi-page Power BI dashboard built to analyze Uber ride booking data end-to-end 
 — from booking status and revenue to rider behavior and trip distance. The report 
@@ -88,3 +88,12 @@ multi-page navigation design. The rider segmentation logic (first-time,
 returning, regular) and the sparkline-enabled summary table in particular 
 show comfort with more advanced Power BI techniques beyond basic charting, 
 making this a strong addition to a data analytics portfolio.
+
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/1.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/2.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/3.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/4.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/5.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/6.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/7.png)
+![](https://github.com/AkashSharma-Artist/Uber-Ride-Bookings-Dashboard-Power-BI-/blob/main/Dashboard%20Img/8.png)
